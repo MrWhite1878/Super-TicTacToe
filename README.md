@@ -1,0 +1,2 @@
+- GUI Super Tic-Tac-Toe in python
+- You can find rules on the internet
